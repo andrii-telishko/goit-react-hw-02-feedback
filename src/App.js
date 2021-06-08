@@ -1,8 +1,9 @@
-
+import React, { Component } from 'react';
+import Statistic from "./Statistic"
 
 function App() {
   return (
-    <h1>Hello</h1>
+    <Statistic />
   );
 }
 
