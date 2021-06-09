@@ -1,0 +1,14 @@
+.feedback_list {
+  display: flex;
+  list-style: none;
+}
+
+.feedback_list_item {
+  margin-right: 10px;
+}
+
+.feedback_list_item_button:hover {
+  background-color: tomato;
+  color: aliceblue;
+  border: 1px solid, black;
+}
